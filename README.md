@@ -17,5 +17,4 @@ The whole process can be accessed through file [Batch_Processing_PySpark](https:
 - MongoDB
 - MongoDB Compass
 
-# More information
-The blog post about the process of creating this project is written in [this](https://medium.com/p/e36c04f91071) blog post
+
